@@ -20,6 +20,14 @@ This repository contains simulation circuits and lab reports from my final-year 
 - Folder: [`Clamper`](./Clamper)
 - File: `Clamper.TSC`
 
+  ---
+
+## 4. Negative Series Clipper
+- Folder: [`Negative Series Clipper`](./Negative Series Clipper)
+- File: `Negative Series Clipper.TSC`
+
+  
+
 
 
 ## Author
