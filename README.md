@@ -6,7 +6,7 @@ This repository contains simulation circuits and lab reports from my final-year 
 
 ## 1. BPSK Generation
 - Folder: [`BPSK`](./BPSK)
-- File: `BPSK generation.pdf`
+- File: `bpsk generation.pdf`
 
 ---
 
