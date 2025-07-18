@@ -23,7 +23,7 @@ This repository contains simulation circuits and lab reports from my final-year 
   ---
 
 ## 4. Negative Series Clipper
-- Folder: [`Negative Series Clipper`](./Negative Series Clipper)
+- Folder: [`Negative Series Clipper`](./Negative-Series-Clipper)
 - File: `Negative Series Clipper.TSC`
 
   
