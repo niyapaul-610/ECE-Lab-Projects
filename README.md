@@ -4,15 +4,22 @@ This repository contains simulation circuits and lab reports from my final-year 
 
 ---
 
-## 🔹 1. BPSK Generation
+## 1. BPSK Generation
 - Folder: [`BPSK`](./BPSK)
 - File: `BPSK generation.pdf`
 
 ---
 
-## 🔹 2. Zero-Crossing Detector
+## 2. Zero-Crossing Detector
 - Folder: [`Zero-Crossing-Detector`](./Zero-Crossing-Detector)
 - File: `zero-crossing detector.TSC`
+
+---
+
+## 3. Clamper
+- Folder: [`Clamper`](./Clamper)
+- File: `Clamper.TSC`
+
 
 
 ## Author
