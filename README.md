@@ -26,9 +26,13 @@ This repository contains simulation circuits and lab reports from my final-year 
 - Folder: [`Negative Series Clipper`](./Negative-Series-Clipper)
 - File: `Negative Series Clipper.TSC`
 
+  ---
+
+## 5. 2nd Order High Pass Filter
+- Folder: [`2nd Order High Pass Filter`](./2nd-Order-High-Pass-Filter)
+- File: `2nd Order High Pass Filter.TSC`
+
   
-
-
 
 ## Author
 **Niya Paul**  
